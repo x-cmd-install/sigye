@@ -4,7 +4,7 @@
 
 A beautiful terminal clock with ASCII art fonts
 
-![sigye](https://repo.x-cmd.io/sigye.svg)
+![sigye](https://repo.x-cmd.io/sigye.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,23 @@ x install sigye
 - **最新版本**: `v0.6.0` (2026-07-23)
 - **最近提交**: 2026-08-11
 - **Release 含资产**: 12 个
-- **发布时间**: 2026-07-23T07:32:34Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [sigye-aarch64-apple-darwin.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-apple-darwin.sha256) | 100 B | `native/darwin/arm64` |
+| [sigye-aarch64-apple-darwin.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-apple-darwin.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
+| [sigye-aarch64-unknown-linux-gnu.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-unknown-linux-gnu.sha256) | 105 B | `native/linux/arm64/glibc` |
+| [sigye-aarch64-unknown-linux-gnu.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-unknown-linux-gnu.tar.gz) | 2.0 MiB | `native/linux/arm64/glibc` |
+| [sigye-x86_64-apple-darwin.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-apple-darwin.sha256) | 99 B | `native/darwin/x64` |
+| [sigye-x86_64-apple-darwin.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-apple-darwin.tar.gz) | 1.6 MiB | `native/darwin/x64` |
+| [sigye-x86_64-pc-windows-msvc.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-pc-windows-msvc.sha256) | 99 B | `native/win/x64` |
+| [sigye-x86_64-pc-windows-msvc.zip](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
+| [sigye-x86_64-unknown-linux-gnu.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-gnu.sha256) | 104 B | `native/linux/x64/glibc` |
+| [sigye-x86_64-unknown-linux-gnu.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-gnu.tar.gz) | 2.1 MiB | `native/linux/x64/glibc` |
+| [sigye-x86_64-unknown-linux-musl.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-musl.sha256) | 105 B | `native/linux/x64/musl` |
+| [sigye-x86_64-unknown-linux-musl.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-musl.tar.gz) | 2.1 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -60,4 +76,4 @@ sigye 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:46:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:08:33Z._
