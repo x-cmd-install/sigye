@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.0"
   latestRelease: "v0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:20:27Z
+  collectedAt: 2026-09-10T23:26:07Z
 timeline:
   created: 2025-12-18
   lastCommit: 2026-08-11
@@ -21,7 +21,7 @@ popularity:
   release: 13
   contributor: 3
   pullRequest: 47
-  issue: 7
+  issue: 8
 language:
   Rust: 366193
   Shell: 1484
@@ -33,7 +33,7 @@ recent:
     mergedPR: 0
     openPR: 1
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 0
   last60d:
     since: 2026-07-12
@@ -41,7 +41,7 @@ recent:
     mergedPR: 3
     openPR: 1
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 17
   last90d:
     since: 2026-06-12
@@ -49,7 +49,7 @@ recent:
     mergedPR: 7
     openPR: 1
     closedIssue: 1
-    openIssue: 0
+    openIssue: 1
     commit: 25
   last180d:
     since: 2026-03-14
@@ -57,7 +57,7 @@ recent:
     mergedPR: 20
     openPR: 1
     closedIssue: 6
-    openIssue: 0
+    openIssue: 1
     commit: 65
   last360d:
     since: 2025-09-15
@@ -65,7 +65,7 @@ recent:
     mergedPR: 38
     openPR: 1
     closedIssue: 7
-    openIssue: 0
+    openIssue: 1
     commit: 117
   last720d:
     since: 2024-09-20
@@ -73,18 +73,18 @@ recent:
     mergedPR: 38
     openPR: 1
     closedIssue: 7
-    openIssue: 0
+    openIssue: 1
     commit: 148
 total:
   release: 13
   mergedPR: 38
   openPR: 1
   closedIssue: 7
-  openIssue: 0
+  openIssue: 1
   commit: 148
 ---
 path: /home/runner/.x-repo/github.com/am2rican5/sigye
-collectedAt: 2026-09-10T20:20:29Z
+collectedAt: 2026-09-10T23:26:09Z
 loc:
   Rust:
     code: 8760

@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1469767,
       "digest": "sha256:e494d884e0de28da7af2b67e9e4e17be6bf4b7e1d29b3bc2f874ba1bea3c0b60",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-07-23T07:35:23Z",
       "updated_at": "2026-07-23T07:35:23Z",
       "browser_download_url": "https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2151405,
       "digest": "sha256:0a971b0637ddd5f7bd200b458ce43e8accad6630f53917ce077df44095d8d5bf",
-      "download_count": 72,
+      "download_count": 73,
       "created_at": "2026-07-23T07:34:19Z",
       "updated_at": "2026-07-23T07:34:19Z",
       "browser_download_url": "https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-gnu.tar.gz"
