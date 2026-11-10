@@ -14,11 +14,11 @@ x install sigye
 
 ## Code insight
 
-Total: **8,956** lines of code across **45** files in the top 5 languages.
+Total: **8,976** lines of code across **45** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,760 | 379 | 1,235 | 35 |
+| Rust | 8,780 | 387 | 1,235 | 35 |
 | Toml | 152 | 1 | 15 | 7 |
 | Sh | 44 | 13 | 8 | 1 |
 | Markdown | 0 | 295 | 91 | 2 |
@@ -31,7 +31,7 @@ Total: **8,956** lines of code across **45** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.0` (2026-07-23)
-- **Last commit**: 2026-08-11
+- **Last commit**: 2026-11-10
 - **Assets in release**: 12
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **8,956** lines of code across **45** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 38 · **Open PRs**: 5 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 148
+- **Releases**: 13 · **Merged PRs**: 44 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 161
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-09-10 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-08-11 | 0 | 0 | 5 | 1 | 0 | 0 |
-| last180d | 2026-05-13 | 3 | 14 | 5 | 6 | 0 | 38 |
-| 360d | 2025-11-14 | 13 | 38 | 5 | 8 | 0 | 117 |
-| last720d | 2024-11-19 | 13 | 38 | 5 | 8 | 0 | 148 |
+| 30d | 2026-10-11 | 0 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-11 | 0 | 6 | 0 | 0 | 0 | 7 |
+| 90d | 2026-08-12 | 0 | 6 | 0 | 1 | 0 | 7 |
+| last180d | 2026-05-14 | 3 | 20 | 0 | 6 | 0 | 45 |
+| 360d | 2025-11-15 | 13 | 44 | 0 | 8 | 0 | 124 |
+| last720d | 2024-11-20 | 13 | 44 | 0 | 8 | 0 | 161 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for sigye lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T05:20:42Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T06:33:07Z._
