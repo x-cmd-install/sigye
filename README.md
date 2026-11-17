@@ -14,14 +14,14 @@ x install sigye
 
 ## Code insight
 
-Total: **8,976** lines of code across **45** files in the top 5 languages.
+Total: **9,120** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,780 | 387 | 1,235 | 35 |
+| Rust | 8,924 | 375 | 1,287 | 35 |
 | Toml | 152 | 1 | 15 | 7 |
-| Sh | 44 | 13 | 8 | 1 |
-| Markdown | 0 | 295 | 91 | 2 |
+| Sh | 44 | 14 | 8 | 1 |
+| Markdown | 0 | 254 | 84 | 1 |
 
 ## Source
 
@@ -30,8 +30,8 @@ Total: **8,976** lines of code across **45** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.6.0` (2026-07-23)
-- **Last commit**: 2026-11-10
+- **Latest**: `v0.7.0` (2026-11-17)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 12
 
 ## Popularity
@@ -40,35 +40,35 @@ Total: **8,976** lines of code across **45** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 44 · **Open PRs**: 1 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 161
+- **Releases**: 14 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 172
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-09-17 | 0 | 5 | 1 | 0 | 0 | 6 |
-| 90d | 2026-08-18 | 0 | 6 | 1 | 1 | 0 | 7 |
-| last180d | 2026-05-20 | 3 | 20 | 1 | 6 | 0 | 45 |
-| 360d | 2025-11-21 | 13 | 44 | 1 | 8 | 0 | 124 |
-| last720d | 2024-11-26 | 13 | 44 | 1 | 8 | 0 | 161 |
+| 30d | 2026-10-18 | 1 | 5 | 0 | 0 | 0 | 14 |
+| last60d | 2026-09-18 | 1 | 6 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-19 | 1 | 7 | 0 | 1 | 0 | 17 |
+| last180d | 2026-05-21 | 4 | 21 | 0 | 6 | 0 | 55 |
+| 360d | 2025-11-22 | 14 | 45 | 0 | 8 | 0 | 134 |
+| last720d | 2024-11-27 | 14 | 45 | 0 | 8 | 0 | 172 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [sigye-aarch64-apple-darwin.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-apple-darwin.sha256) | 100 B | `native/darwin/arm64` |
-| [sigye-aarch64-apple-darwin.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-apple-darwin.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
-| [sigye-aarch64-unknown-linux-gnu.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-unknown-linux-gnu.sha256) | 105 B | `native/linux/arm64/glibc` |
-| [sigye-aarch64-unknown-linux-gnu.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-aarch64-unknown-linux-gnu.tar.gz) | 2.0 MiB | `native/linux/arm64/glibc` |
-| [sigye-x86_64-apple-darwin.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-apple-darwin.sha256) | 99 B | `native/darwin/x64` |
-| [sigye-x86_64-apple-darwin.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-apple-darwin.tar.gz) | 1.6 MiB | `native/darwin/x64` |
-| [sigye-x86_64-pc-windows-msvc.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-pc-windows-msvc.sha256) | 99 B | `native/win/x64` |
-| [sigye-x86_64-pc-windows-msvc.zip](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
-| [sigye-x86_64-unknown-linux-gnu.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-gnu.sha256) | 104 B | `native/linux/x64/glibc` |
-| [sigye-x86_64-unknown-linux-gnu.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-gnu.tar.gz) | 2.1 MiB | `native/linux/x64/glibc` |
-| [sigye-x86_64-unknown-linux-musl.sha256](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-musl.sha256) | 105 B | `native/linux/x64/musl` |
-| [sigye-x86_64-unknown-linux-musl.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.6.0/sigye-x86_64-unknown-linux-musl.tar.gz) | 2.1 MiB | `native/linux/x64/musl` |
+| [sigye-aarch64-apple-darwin.sha256](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-aarch64-apple-darwin.sha256) | 100 B | `native/darwin/arm64` |
+| [sigye-aarch64-apple-darwin.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-aarch64-apple-darwin.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [sigye-aarch64-unknown-linux-gnu.sha256](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-aarch64-unknown-linux-gnu.sha256) | 105 B | `native/linux/arm64/glibc` |
+| [sigye-aarch64-unknown-linux-gnu.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-aarch64-unknown-linux-gnu.tar.gz) | 1.8 MiB | `native/linux/arm64/glibc` |
+| [sigye-x86_64-apple-darwin.sha256](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-apple-darwin.sha256) | 99 B | `native/darwin/x64` |
+| [sigye-x86_64-apple-darwin.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-apple-darwin.tar.gz) | 1.5 MiB | `native/darwin/x64` |
+| [sigye-x86_64-pc-windows-msvc.sha256](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-pc-windows-msvc.sha256) | 99 B | `native/win/x64` |
+| [sigye-x86_64-pc-windows-msvc.zip](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-pc-windows-msvc.zip) | 1.3 MiB | `native/win/x64` |
+| [sigye-x86_64-unknown-linux-gnu.sha256](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-unknown-linux-gnu.sha256) | 104 B | `native/linux/x64/glibc` |
+| [sigye-x86_64-unknown-linux-gnu.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-unknown-linux-gnu.tar.gz) | 1.9 MiB | `native/linux/x64/glibc` |
+| [sigye-x86_64-unknown-linux-musl.sha256](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-unknown-linux-musl.sha256) | 105 B | `native/linux/x64/musl` |
+| [sigye-x86_64-unknown-linux-musl.tar.gz](https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-unknown-linux-musl.tar.gz) | 2.0 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for sigye lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T05:30:44Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:08:43Z._
