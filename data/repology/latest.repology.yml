@@ -4,7 +4,7 @@
   visiblename: sigye
   version: 0.6.0
   origversion: 0.6.0-1
-  status: newest
+  status: outdated
   summary: A beautiful terminal clock with ASCII art fonts
   maintainers:
     - orhun@aur
@@ -14,8 +14,8 @@
   srcname: sigye-bin
   binname: sigye-bin
   visiblename: sigye-bin
-  version: 0.6.0
-  origversion: 0.6.0-1
+  version: 0.7.0
+  origversion: 0.7.0-1
   status: newest
   summary: A beautiful terminal clock with ASCII art fonts
   maintainers:
@@ -28,7 +28,7 @@
   visiblename: deskutils/sigye
   version: 0.6.0
   origversion: 0.6.0_2
-  status: newest
+  status: outdated
   summary: Terminal clock with ASCII art fonts and productivity timers
   maintainers:
     - olgeni@freebsd.org
