@@ -46,12 +46,12 @@ Total: **9,120** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 5 | 0 | 0 | 0 | 14 |
-| last60d | 2026-09-18 | 1 | 6 | 0 | 0 | 0 | 16 |
-| 90d | 2026-08-19 | 1 | 7 | 0 | 1 | 0 | 17 |
-| last180d | 2026-05-21 | 4 | 21 | 0 | 6 | 0 | 55 |
-| 360d | 2025-11-22 | 14 | 45 | 0 | 8 | 0 | 134 |
-| last720d | 2024-11-27 | 14 | 45 | 0 | 8 | 0 | 172 |
+| 30d | 2026-10-20 | 1 | 5 | 0 | 0 | 0 | 14 |
+| last60d | 2026-09-20 | 1 | 6 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-21 | 1 | 7 | 0 | 1 | 0 | 17 |
+| last180d | 2026-05-23 | 4 | 21 | 0 | 6 | 0 | 55 |
+| 360d | 2025-11-24 | 14 | 45 | 0 | 8 | 0 | 134 |
+| last720d | 2024-11-29 | 14 | 45 | 0 | 8 | 0 | 172 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Total: **9,120** lines of code across **44** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/sigye). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/sigye). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for sigye lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:08:43Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T06:34:36Z._
