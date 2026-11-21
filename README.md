@@ -46,12 +46,12 @@ Total: **9,120** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 9 | 1 | 0 | 0 | 18 |
-| last60d | 2026-09-21 | 1 | 10 | 1 | 0 | 0 | 20 |
-| 90d | 2026-08-22 | 1 | 11 | 1 | 1 | 0 | 21 |
-| last180d | 2026-05-24 | 4 | 25 | 1 | 6 | 0 | 59 |
-| 360d | 2025-11-25 | 14 | 49 | 1 | 8 | 0 | 138 |
-| last720d | 2024-11-30 | 14 | 49 | 1 | 8 | 0 | 180 |
+| 30d | 2026-10-22 | 1 | 8 | 1 | 0 | 0 | 18 |
+| last60d | 2026-09-22 | 1 | 10 | 1 | 0 | 0 | 20 |
+| 90d | 2026-08-23 | 1 | 11 | 1 | 1 | 0 | 21 |
+| last180d | 2026-05-25 | 4 | 25 | 1 | 5 | 0 | 59 |
+| 360d | 2025-11-26 | 14 | 49 | 1 | 8 | 0 | 138 |
+| last720d | 2024-12-01 | 14 | 49 | 1 | 8 | 0 | 180 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for sigye lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:23:01Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:12:34Z._
