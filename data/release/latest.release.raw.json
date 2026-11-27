@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1505518,
       "digest": "sha256:b5dff0a371ceec970cb2d4d50ecffd0d8ce1e0d74319fd908755fd1346b4eb83",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-11-17T06:52:05Z",
       "updated_at": "2026-11-17T06:52:05Z",
       "browser_download_url": "https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1884175,
       "digest": "sha256:08de28e43a07ad26b38a30eda70eba4a4aec38ffee0165302821a9aa12ecab55",
-      "download_count": 61,
+      "download_count": 64,
       "created_at": "2026-11-17T06:51:46Z",
       "updated_at": "2026-11-17T06:51:46Z",
       "browser_download_url": "https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-aarch64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:80c0e28331270aaf7c800eac6f079cde2b244e2d57a7808c844d6b1c60e77a51",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-17T06:50:55Z",
       "updated_at": "2026-11-17T06:50:55Z",
       "browser_download_url": "https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-unknown-linux-gnu.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1966942,
       "digest": "sha256:1e5dd69d63283e849a24370a93acd92c8f1622f07e300312d4a2afe246ce4557",
-      "download_count": 49,
+      "download_count": 54,
       "created_at": "2026-11-17T06:50:55Z",
       "updated_at": "2026-11-17T06:50:55Z",
       "browser_download_url": "https://github.com/am2rican5/sigye/releases/download/v0.7.0/sigye-x86_64-unknown-linux-gnu.tar.gz"
