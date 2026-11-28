@@ -1,0 +1,117 @@
+about:
+  description: "A beautiful terminal clock with ASCII art fonts"
+  license: MIT
+  homepage: 
+  head: 8fde7b1
+  archived: false
+  latestVersion: "v0.7.0"
+  latestRelease: "v0.7.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T06:56:04Z
+timeline:
+  created: 2025-12-18
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-17
+  lastRelease: 2026-11-17
+  lastPrerelease: 
+popularity:
+  star: 138
+  watcher: 2
+  fork: 3
+  release: 14
+  contributor: 3
+  pullRequest: 67
+  issue: 8
+language:
+  Rust: 374418
+  Tape: 5554
+  Shell: 1586
+totalBytes: 381558
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 22
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 14
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 24
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 25
+  last180d:
+    since: 2026-06-01
+    release: 4
+    mergedPR: 27
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 62
+  last360d:
+    since: 2025-12-03
+    release: 14
+    mergedPR: 53
+    openPR: 0
+    closedIssue: 8
+    openIssue: 0
+    commit: 142
+  last720d:
+    since: 2024-12-08
+    release: 14
+    mergedPR: 53
+    openPR: 0
+    closedIssue: 8
+    openIssue: 0
+    commit: 188
+total:
+  release: 14
+  mergedPR: 53
+  openPR: 0
+  closedIssue: 8
+  openIssue: 0
+  commit: 188
+---
+path: /home/runner/.x-repo/github.com/am2rican5/sigye
+collectedAt: 2026-11-28T06:56:05Z
+loc:
+  Rust:
+    code: 8924
+    comments: 375
+    blanks: 1287
+    files: 35
+  Toml:
+    code: 152
+    comments: 1
+    blanks: 15
+    files: 7
+  Sh:
+    code: 44
+    comments: 14
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 254
+    blanks: 84
+    files: 1
+total:
+  code: 9177
+  comments: 1237
+  blanks: 1410
+  files: 44
+---
+
+---
