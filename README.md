@@ -36,7 +36,7 @@ Total: **9,120** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 137 · **Forks**: 3 · **Open issues**: 8 · **Contributors**: 3
+- **Stars**: 138 · **Forks**: 3 · **Open issues**: 8 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **9,120** lines of code across **44** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 12 | 0 | 0 | 0 | 22 |
-| last60d | 2026-09-28 | 1 | 14 | 0 | 0 | 0 | 24 |
-| 90d | 2026-08-29 | 1 | 15 | 0 | 1 | 0 | 25 |
-| last180d | 2026-05-31 | 4 | 28 | 0 | 3 | 0 | 62 |
-| 360d | 2025-12-02 | 14 | 53 | 0 | 8 | 0 | 142 |
-| last720d | 2024-12-07 | 14 | 53 | 0 | 8 | 0 | 188 |
+| 30d | 2026-10-29 | 1 | 12 | 0 | 0 | 0 | 22 |
+| last60d | 2026-09-29 | 1 | 14 | 0 | 0 | 0 | 24 |
+| 90d | 2026-08-30 | 1 | 15 | 0 | 1 | 0 | 25 |
+| last180d | 2026-06-01 | 4 | 27 | 0 | 3 | 0 | 62 |
+| 360d | 2025-12-03 | 14 | 53 | 0 | 8 | 0 | 142 |
+| last720d | 2024-12-08 | 14 | 53 | 0 | 8 | 0 | 188 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for sigye lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T07:25:35Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T06:56:24Z._
